@@ -19,7 +19,7 @@
 ## A. Dasar Teori
 ### 1. Arduino
 
-<img src="assets/arduino.jpg" alt="Arduino" style="width: 250px;"/>
+<img src="assets/arduino.jpg" alt="Arduino" style="width: 400px;" align="middle"/>
 
 Arduino adalah sebuah mikrokontroller board tunggal yang memiliki sifat terbuka (open source) yang diturunkan dari platform berbasis Wiring. Pengendali ini dirancang untuk mempermudah penggunaan dalam berbagai bidang elektronik. Hardware arduino mengandung prosesor jenis Atmel AVR, dan memiliki bahasa pemrograman tersendiri (mirip bahasa C). 
 

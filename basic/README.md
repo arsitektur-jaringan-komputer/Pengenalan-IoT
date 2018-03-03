@@ -4,22 +4,22 @@
 
 
 ### Software Requirements
-		1. [arduino IDE](https://www.arduino.cc/en/Main/Software)
+1. [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 		
 ### Hardware Requirements
-		1. Arduino Uno
-		2. LED
-		3. DHT 11 (Sensor Suhu)
-		4. LDR (Sensor cahaya)
-		5. HC-SR04 (Sensor Jarak)
-		6. PIR (Sensor Gerakan)
-		7. IR Receiver
-		8. Servo
+1. Arduino Uno
+2. LED
+3. DHT 11 (Sensor Suhu)
+4. LDR (Sensor cahaya)
+5. HC-SR04 (Sensor Jarak)
+6. PIR (Sensor Gerakan)
+7. IR Receiver
+8. Servo
 		
 ## A. Dasar Teori
 ### 1. Arduino
 
-![](assets/arduino.jpg)
+![](assets/arduino.jpg =250x)
 
 Arduino adalah sebuah mikrokontroller board tunggal yang memiliki sifat terbuka (open source) yang diturunkan dari platform berbasis Wiring. Pengendali ini dirancang untuk mempermudah penggunaan dalam berbagai bidang elektronik. Hardware arduino mengandung prosesor jenis Atmel AVR, dan memiliki bahasa pemrograman tersendiri (mirip bahasa C). 
 

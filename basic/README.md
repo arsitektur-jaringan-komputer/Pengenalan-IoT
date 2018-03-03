@@ -25,6 +25,7 @@ Arduino adalah sebuah mikrokontroller board tunggal yang memiliki sifat terbuka 
 
 ### 2. LED
 
+<img src="assets/led.jpg" alt="led" style="width: 250px;" align="middle"/>
 ![](assets/led.jpg)
 
 Light Emitting Diode atau sering disingkat dengan LED adalah komponen elektronika yang dapat memancarkan cahaya monokromatik ketika diberikan tegangan DC. LED merupakan keluarga Dioda yang terbuat dari bahan semikonduktor. Warna-warna Cahaya yang dipancarkan oleh LED tergantung pada jenis bahan semikonduktor yang dipergunakannya. 

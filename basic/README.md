@@ -74,7 +74,7 @@ Circuit LED :
 
 <img src="assets/r1.png" alt="Arduino" width="500px">
 
-Sketch :
+Sketch LED:
 
 ```C
 
@@ -152,12 +152,11 @@ void loop() {
 
 ### 3. LDR
 
-Circuit DHT 11
+Circuit LDR
 
 <img src="assets/r3.gif" alt="Arduino" width="500px">
 
 Sketch LDR
-
 ```C
 int LDR_Pin = A0; //analog pin 0
 

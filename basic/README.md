@@ -78,11 +78,11 @@ Sketch LED:
 
 ```C
 
-int ledPin = 13;                // definisikan digital pin 13 sebagai LED
+int ledPin = 7;                // definisikan digital pin 7 sebagai LED
 
 void setup()
 {
-  pinMode(ledPin, OUTPUT);      // set digital pin 13 sebagai output
+  pinMode(ledPin, OUTPUT);      // set digital pin 7 sebagai output
 }
 
 void loop()

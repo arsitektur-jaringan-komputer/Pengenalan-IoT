@@ -99,7 +99,7 @@ void loop()
 
 Circuit DHT 11
 
-<img src="assets/r2.jpg" alt="Arduino" width="500px">
+<img src="assets/r2.png" alt="Arduino" width="500px">
 
 Sketch DHT 11
 
@@ -238,7 +238,8 @@ void loop() {
   }
   
   delay(1000);
-}```
+}
+```
 
 ### 6. IR sensor
 

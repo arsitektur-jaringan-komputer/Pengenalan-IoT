@@ -97,7 +97,7 @@ void loop()
 
 ### 2. DHT 11
 
-![Download Library](https://github.com/adafruit/Adafruit_Sensor)
+[Download Library](https://github.com/adafruit/Adafruit_Sensor)
 
 Circuit DHT 11
 

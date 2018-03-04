@@ -66,12 +66,14 @@ Infra red (IR) detektor atau sensor infra merah adalah komponen elektronika yang
 Motor servo adalah sebuah motor DC dengan sistem umpan balik tertutup di mana posisi rotor-nya akan diinformasikan kembali ke rangkaian kontrol yang ada di dalam motor servo. Motor ini terdiri dari sebuah motor DC, serangkaian gear, potensiometer, dan rangkaian kontrol. Potensiometer berfungsi untuk menentukan batas sudut dari putaran servo. Sedangkan sudut dari sumbu motor servo diatur berdasarkan lebar pulsa yang dikirim melalui kaki sinyal dari kabel motor servo.
 
 
-## B. Instalasi
+## B. Cara Bermain
 
-### 1. Instalasi Virtualbox
-Debian Based : `apt-get install virtualbox`
+### 1. LED
 
-Mac Os : via Official Web dan jalankan file .dmg. [Download](https://www.virtualbox.org/wiki/Downloads)
+Rangkaian LED: 
+
+
+
 ### 2. Instalasi Vagrant
 Debian Based : `apt-get install vagrant`
 

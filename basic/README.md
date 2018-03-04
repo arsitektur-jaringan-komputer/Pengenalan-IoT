@@ -176,7 +176,7 @@ delay(250);
 
 ### 4. HC-SR04
 
-![Download Library](https://bitbucket.org/teckel12/arduino-new-ping/downloads/)
+[Download Library](https://bitbucket.org/teckel12/arduino-new-ping/downloads/)
 
 Circuit HC-SR04
 
@@ -244,7 +244,7 @@ void loop() {
 
 ### 6. IR sensor
 
-![Download Library](http://z3t0.github.io/Arduino-IRremote/)
+[Download Library](http://z3t0.github.io/Arduino-IRremote/)
 
 Circuit IR Sensor
 
@@ -275,7 +275,7 @@ void loop(){
 
 ### 7. Servo
 
-![Download Library](http://z3t0.github.io/Arduino-IRremote/)
+[Download Library](http://z3t0.github.io/Arduino-IRremote/)
 
 Circuit Servo
 

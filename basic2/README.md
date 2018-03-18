@@ -81,12 +81,11 @@ break;
 
 Index.php
 
-```PHP
-<?php
+```PHP<?php
 
-$port ="/dev/tty/ACM0"
+$port="/dev/ttyACM0";
 
-exec('mode com5: baud=9600 data=8 stop=1 parity=n xon=no');
+exec('mode $port: baud=9600 data=8 stop=1 parity=n xon=no');
 
 $switch1 = "";
 
@@ -104,13 +103,13 @@ $switch1 = $_GET['action'];
 
 switch ($switch1) {
 case "on":
-$fp = fopen("com5", "w");
+$fp = fopen( $port, "w");
 fwrite($fp, chr(97));
 fclose($fp);
 break;
 
 case "off":
-$fp = fopen("com4", "w");
+$fp = fopen( $port, "w");
 fwrite($fp, chr(98));
 fclose($fp);
 break;

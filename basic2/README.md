@@ -15,19 +15,13 @@
 ## A. Dasar Teori
 ### 1. Serial Communication
 
-<img src="assets/arduino.jpg" alt="Arduino" width="300px">
-
 Komunikasi serial adalah komunikasi yang pengiriman datanya per-bit secara berurutan dan bergantian. Komunikasi ini mempunyai suatu kelebihan yaitu hanya membutuhkan satu jalur dan kabel yang sedikit dibandingkan dengan komunikasi paralel. Pada prinsipnya komunikasi serial merupakan komunikasi dimana pengiriman data dilakukan per bit sehingga lebih lambat dibandingkan komunikasi parallel, atau dengan kata lain komunikasi serial merupakan salah satu metode komunikasi data di mana hanya satu bit data yang dikirimkan melalui seuntai kabel pada suatu waktu tertentu.
 
 ### 2. PHP
 
-<img src="assets/led.jpg" alt="Arduino" width="300px">
-
 Bahasa Pemrograman PHP adalah bahasa pemrograman script server-side yang didesain untuk pengembangan web. Selain itu, PHP juga bisa digunakan sebagai bahasa pemrograman umum (wikipedia). Pertama kali di kembangkan oleh Rasmust Lerdorf pada tahun 1995, dan sekarang php dikembangkan oleh The PHP Group.
 
 ### 3. Web Server
-
-<img src="assets/dht11.jpg" alt="Arduino" width="300px">
 
 Web server adalah sebuah software yang memberikan layanan berbasis data dan berfungsi menerima permintaan dari HTTP atau HTTPS pada klien yang dikenal dan biasanya kita kenal dengan nama web browser (Mozilla Firefox, Google Chrome) dan untuk mengirimkan kembali yang hasilnya dalam bentuk beberapa halaman web dan pada umumnya akan berbentuk dokumen HTML.
 

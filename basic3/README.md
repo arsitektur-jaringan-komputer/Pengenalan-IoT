@@ -1,7 +1,7 @@
 # NodeMCU & Blynk
 
 
-![](/assets/F0RBWFHIPCUHGB0.LARGE.jpg)
+![](assets/F0RBWFHIPCUHGB0.LARGE.jpg)
 
 ### Software Requirements:
 
@@ -32,13 +32,13 @@ Aplikasi pada IoS ataupun Android yang memungkinkan untuk mengendalikan Arduino,
 
 2. Tambah additional Board Manager (http://arduino.esp8266.com/versions/2.4.1/package\_esp8266com\_index.json)
 
-3. Buat rangkaian seperti gambar berikut.![](/assets/F5AFMEQIPCUHCMH.LARGE.jpg)
+3. Buat rangkaian seperti gambar berikut.![](assets/F5AFMEQIPCUHCMH.LARGE.jpg)
 
 4. Buka Aplikasi Blynk di Smartphone dan buat new project.
 
 5. Buat button dan ubah pin nya menjadi Digital GP13.
 
-![](/assets/nodemcu_pins.png)
+![](assets/nodemcu_pins.png)
 
 6. Buka File -&gt; Examples -&gt; Blynk -&gt; BoardsWiFi -&gt; ESP8266\_Standalone
 
